@@ -1,0 +1,5 @@
+blue color discrete
+green color contious data
+ 
+
+extract option stored in .hyper .tde
